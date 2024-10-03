@@ -52,5 +52,6 @@ public class _1_BubbleSort {
         _1_BubbleSort bs = new _1_BubbleSort();
         bs.bubbleSort(arr); // Sort the array using Bubble Sort
         System.out.println(Arrays.toString(arr)); // Print array after sorting
+
     }
 }
